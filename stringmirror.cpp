@@ -1,6 +1,6 @@
 //{ Driver Code Starts
 //Initial Template for C++
-
+// it includes only basic string operation , mathematical and algorithm
 #include <bits/stdc++.h>
 using namespace std;
 
